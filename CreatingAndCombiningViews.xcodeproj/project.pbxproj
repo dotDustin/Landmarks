@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D9C28AB424A18E2000CF1868 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9C28AB424A18E2000CF1868 /* CreatingAndCombiningViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CreatingAndCombiningViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9C28AB724A18E2000CF1868 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D9C28AB924A18E2000CF1868 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D9C28ABB24A18E2000CF1868 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		D9C28AB524A18E2000CF1868 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D9C28AB424A18E2000CF1868 /* Landmarks.app */,
+				D9C28AB424A18E2000CF1868 /* CreatingAndCombiningViews.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,9 +84,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D9C28AB324A18E2000CF1868 /* Landmarks */ = {
+		D9C28AB324A18E2000CF1868 /* CreatingAndCombiningViews */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D9C28AC824A18E3A00CF1868 /* Build configuration list for PBXNativeTarget "Landmarks" */;
+			buildConfigurationList = D9C28AC824A18E3A00CF1868 /* Build configuration list for PBXNativeTarget "CreatingAndCombiningViews" */;
 			buildPhases = (
 				D9C28AB024A18E2000CF1868 /* Sources */,
 				D9C28AB124A18E2000CF1868 /* Frameworks */,
@@ -96,9 +96,9 @@
 			);
 			dependencies = (
 			);
-			name = Landmarks;
+			name = CreatingAndCombiningViews;
 			productName = Landmarks;
-			productReference = D9C28AB424A18E2000CF1868 /* Landmarks.app */;
+			productReference = D9C28AB424A18E2000CF1868 /* CreatingAndCombiningViews.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D9C28AAF24A18E1F00CF1868 /* Build configuration list for PBXProject "Landmarks" */;
+			buildConfigurationList = D9C28AAF24A18E1F00CF1868 /* Build configuration list for PBXProject "CreatingAndCombiningViews" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -129,7 +129,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D9C28AB324A18E2000CF1868 /* Landmarks */,
+				D9C28AB324A18E2000CF1868 /* CreatingAndCombiningViews */,
 			);
 		};
 /* End PBXProject section */
@@ -302,7 +302,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = dm.Landmarks;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CreatingAndCombiningViews;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -322,7 +322,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = dm.Landmarks;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CreatingAndCombiningViews;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -331,7 +331,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D9C28AAF24A18E1F00CF1868 /* Build configuration list for PBXProject "Landmarks" */ = {
+		D9C28AAF24A18E1F00CF1868 /* Build configuration list for PBXProject "CreatingAndCombiningViews" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D9C28AC624A18E3A00CF1868 /* Debug */,
@@ -340,7 +340,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D9C28AC824A18E3A00CF1868 /* Build configuration list for PBXNativeTarget "Landmarks" */ = {
+		D9C28AC824A18E3A00CF1868 /* Build configuration list for PBXNativeTarget "CreatingAndCombiningViews" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D9C28AC924A18E3A00CF1868 /* Debug */,
